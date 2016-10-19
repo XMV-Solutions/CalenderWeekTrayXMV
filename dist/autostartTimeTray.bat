@@ -1,1 +1,1 @@
-javaw -Xmx20m -jar TimeTryXMV.jar
+javaw -Xmx20m -jar TimeTrayXMV.jar
